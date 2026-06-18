@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
+<br><br>
 <h3 align="center">I'm a passionate Software Developer and Computer Science student who loves building web applications, solving algorithmic problems, and exploring new technologies. I enjoy turning ideas into real-world projects, participating in hackathons, and continuously improving my development skills.</h3>
 
--@@ -1,9 +1,20 @@
+
 
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Web Development projects and exploring scalable backend architectures.<br>
